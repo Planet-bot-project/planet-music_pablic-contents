@@ -21,7 +21,7 @@
 - Instagram
   - https://www.instagram.com/reel/??????????????
 - NHK Radio
-  - https://www.nhk.or.jp/radio/player/?ch=[[チャンネル]]
+  - https://www.nhk.or.jp/radio/player/?ch=[[チャンネル]]  
     ※上の[[チャンネル]]には、r1,r2,fmが入ります。
   - https://www.nhk.or.jp/radio/player/ondemand.html?p=??????????????
 - TBS 見逃し配信
